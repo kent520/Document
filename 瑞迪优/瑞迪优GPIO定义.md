@@ -1,0 +1,15 @@
+##### 
+
+|宏定义|管脚|
+|:--------:|:--------:|
+|WD0|GPIOC2|
+|WD1|GPIOC3|
+|SDA|GPIOC4|
+|SCL|GPIOC5|
+|PUSH|GPIOC0|
+|TX|GPIOC1|
+|IR|GPIOB3|
+|UART_TX|GPIOA7|
+|UART_RX|GPIOA6|
+
+
